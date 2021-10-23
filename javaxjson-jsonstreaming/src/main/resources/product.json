@@ -1,0 +1,19 @@
+{
+   "orderItems":[
+      {
+         "itemCode": "ic001",
+         "quantity": 10
+      },
+      {
+         "itemCode":"ic002",
+         "quantity":20
+      }
+   ],
+   "shippingAddress":{
+      "addressLine1":"Ptg",
+      "addressLine2": "213/2",
+      "city":"bolangir",
+      "state":"odisha",
+      "pin":767025
+   }
+}
